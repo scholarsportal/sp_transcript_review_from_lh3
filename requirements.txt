@@ -1,0 +1,15 @@
+requests
+python-dateutil
+python-dotenv
+BeautifulSoup4
+lh3api
+XlsxWriter
+pandas
+mock
+numpy
+ipdb
+pendulum
+htmldocx 
+Jinja2
+pytest
+black
